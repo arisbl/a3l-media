@@ -8,7 +8,7 @@
     "https://raw.githubusercontent.com/arisbl/a3l-media/main/nao-existe.jpg"
   ],
   "agendadoPara": "2026-09-10T12:00:00-03:00",
-  "estado": "rascunho",
+  "estado": "pendente",
   "criadoEm": "2026-09-06T04:20:19.171Z",
   "origem": "teste",
   "resultado": null,
@@ -18,6 +18,13 @@
       "de": null,
       "para": "rascunho",
       "por": "cli",
+      "nota": null
+    },
+    {
+      "em": "2026-09-06T04:20:23.821Z",
+      "de": "rascunho",
+      "para": "pendente",
+      "por": "teste",
       "nota": null
     }
   ]
