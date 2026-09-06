@@ -8,10 +8,13 @@
     "https://raw.githubusercontent.com/arisbl/a3l-media/main/nao-existe.jpg"
   ],
   "agendadoPara": "2026-09-10T12:00:00-03:00",
-  "estado": "publicando",
+  "estado": "publicado",
   "criadoEm": "2026-09-06T04:20:19.171Z",
   "origem": "teste",
-  "resultado": null,
+  "resultado": {
+    "mediaId": "000",
+    "permalink": "https://x"
+  },
   "historico": [
     {
       "em": "2026-09-06T04:20:19.171Z",
@@ -38,6 +41,13 @@
       "em": "2026-09-06T04:20:30.730Z",
       "de": "aprovado",
       "para": "publicando",
+      "por": "teste",
+      "nota": null
+    },
+    {
+      "em": "2026-09-06T04:20:33.281Z",
+      "de": "publicando",
+      "para": "publicado",
       "por": "teste",
       "nota": null
     }
